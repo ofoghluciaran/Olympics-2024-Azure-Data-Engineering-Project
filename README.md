@@ -4,6 +4,9 @@
 
 This repository showcases an end-to-end Azure Data Engineering project. It demonstrates the workflow of ingesting, transforming, and exporting data using Azure Data Factory, Spark, and Databricks. The project includes a Databricks notebook detailing each step in the data pipeline.
 
+![image](https://github.com/user-attachments/assets/7378bf86-0b65-45fb-8405-9aa3069d53e2)
+
+
 ## Project Workflow
 
 1. **File Upload:**
