@@ -21,7 +21,9 @@ This project showcases an end-to-end data engineering solution for the Paris 202
 
 ### Data Transformation
 
-- **Azure Databricks**: Spark-based notebooks have been used to clean, transform, and prepare the data. This involves data normalization, feature engineering, and aggregations to make the data ready for analysis.
+- **Azure Databricks**: Utilized Spark-based notebooks to clean, transform, and prepare the data. Python and Spark were employed for data normalization, feature engineering, and aggregations.
+- **Python**: Custom scripts were used for specific data manipulation and processing tasks.
+- **SQL**: Queries written to handle structured data transformations and aggregations.
 
 ### Data Warehousing and Analysis
 
@@ -36,8 +38,8 @@ This project showcases an end-to-end data engineering solution for the Paris 202
 
 - **Azure Data Factory (ADF)**
 - **Azure Data Lake Storage (ADLS)**
-- **Azure Databricks**
-- **Azure Synapse Analytics**
+- **Azure Databricks** (Python, Spark, SQL)
+- **Azure Synapse Analytics** (SQL)
 - **Power BI**
 
 ## How to Explore the Project
