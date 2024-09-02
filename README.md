@@ -1,5 +1,4 @@
 # Olympics 2024 Azure Data Engineering Project
-# Azure Data Engineering Project
 
 ## Overview
 
