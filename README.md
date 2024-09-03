@@ -57,7 +57,7 @@ This project showcases an end-to-end data engineering solution for the Paris 202
 
 ![image](https://github.com/user-attachments/assets/f4e196dc-bfee-4a3f-a50c-11a02b546cbd)
 
-![image](https://github.com/user-attachments/assets/e5bd2885-2528-4006-8565-e6ea25fb53d0)
+![image](https://github.com/user-attachments/assets/09d19d19-1719-400c-b493-7ce3a523d542)
 
 ![image](https://github.com/user-attachments/assets/8a1dc77a-6191-4bea-a9dc-2e5c65b9a806)
 
