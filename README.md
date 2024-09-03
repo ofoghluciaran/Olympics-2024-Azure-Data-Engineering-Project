@@ -52,3 +52,19 @@ This project showcases an end-to-end data engineering solution for the Paris 202
 4. **Explore Data Warehousing**: Dive into the data warehousing setup and SQL queries in Azure Synapse Analytics.
 5. **Interact with Visualizations**: View the Power BI dashboards to see the data visualizations and insights generated from the analysis.
 
+
+# Power BI Dashboard
+
+![image](https://github.com/user-attachments/assets/f4e196dc-bfee-4a3f-a50c-11a02b546cbd)
+
+![image](https://github.com/user-attachments/assets/e5bd2885-2528-4006-8565-e6ea25fb53d0)
+
+![image](https://github.com/user-attachments/assets/8a1dc77a-6191-4bea-a9dc-2e5c65b9a806)
+
+![image](https://github.com/user-attachments/assets/3877b7c6-aa1f-4256-a743-39c985b6dc72)
+
+
+
+
+
+
